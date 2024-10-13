@@ -37,11 +37,11 @@ A soothing Lofi Music App built using React and Tailwind CSS, offering a collect
 - [x] Add a music playing animation (something like spotify mobile track playing animation) next to the track that is currently playing.
 - [ ] Style the slider.
 - [ ] Add tests for components.
-- [ ] Build an FM lofi player
+- [ ] Build an FM lofi player.
 
 ## 💁 Contributions
 
-Contributions are welcome! If you'd like to contribute, feel free to open an issue or a pull request.
+Contributions are welcome! If you'd like to contribute, please check out the [Contributing Guide](https://github.com/ArvindParekh/Lofi-Music-App/blob/main/CONTRIBUTING.md), and feel free to open an issue or a pull request.
 
 ## 📃 License
 
@@ -51,3 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](/path/to/LICE
 <!-- If you've contributed to the project, I'd love for you to write your name in the list below and link your preferred account, as such: [<your-name>](<your-account-url>) -->
 
 - [Arvind Parekh](https://twitter.com/ArvindParekh_21)
+- [M. Mahad Hashmi](https://github.com/GitGudCode440)
